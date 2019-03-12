@@ -15,7 +15,6 @@ import org.osgi.service.component.annotations.Component;
 	immediate = true,
 	property = {
 		"com.liferay.portlet.display-category=category.sample",
-		"com.liferay.portlet.header-portlet-javascript=/js/angular.js",
 		"com.liferay.portlet.instanceable=true",
 		"javax.portlet.init-param.template-path=/",
 		"javax.portlet.init-param.view-template=/view.jsp",
